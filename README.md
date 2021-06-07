@@ -4,3 +4,4 @@
 # Wrote the Junit test cases including mockito to test the presenters, model and utils business logic
 # Retrofit, RxJava framework is used for the openweathermap REST API
 # Whole application is developed in Kotlin language
+# ViewBinding is being used
