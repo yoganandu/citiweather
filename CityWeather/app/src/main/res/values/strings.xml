@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">City Weather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather_loading_progress_text">Please wait while obtaining weather info...</string>
+    <string name="wind_speed_text">Wind: %1$s m/s Direction: %2$s</string>
+    <string name="pressure_speed_text">Pressure: %1$s hPa</string>
+    <string name="humidity_text">Humidity: %1$s</string>
+    <string name="sunrise_text">Sunrise: %1$s</string>
+    <string name="sunset_text">Sunset: %1$s</string>
+</resources>
